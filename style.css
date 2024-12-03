@@ -13,6 +13,7 @@ body {
     background-image: linear-gradient(rgb(0 35 100) url("./assets/images/banner.png"));
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.6) rgba(49, 168, 221, 0);
     margin-top: 60px;
     height: 605px;
     border-bottom: solid 1px #33A8DB;
@@ -73,7 +74,7 @@ body {
 }
 
 #course-content .modules-list .module {
-    color: white;
+    color: rgba(255, 255, 255, 1);
     width: 530px;
     margin: 0 auto 24px;
     border: 1px solid #33A8DB;
